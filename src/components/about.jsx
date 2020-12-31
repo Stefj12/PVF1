@@ -45,17 +45,17 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "I'm originally from Arkansas, I started out working in the airline industry for years and loved every bit of it but decided to explore another interest Ive always wanted to get into in software."
+            "I was raised in Fort Smith, Arkansas, relocating in 2019 to Renton, Washington. I have worked in the airline industry for ten years. Although I have loved every bit of it, 2020 has been a year of growth in my endeavor to explore another interest. I've always wanted to learn a new skill in coding."
         },
         {
           id: "second-p-about",
           content:
-            "I transferred to the Seattle area but with COVID-19 it's hit my industry hard and has given me time to actually step back so I attended the University of Washington Coding Boot Camp. "
+            "Shortly after transferring into SEA TAC airport, COVID-19 hit my industry hard, allowing me time to take step back from comfortability. I attended the University of Washington Coding Boot Camp. "
         },
         {
           id: "third-p-about",
           content:
-            "I have completed the Boot Camp and I will continue to learn and grow while also being open for work."
+            "Having completed the boot camp, it is my focus to secure a position coding, while furthing my passion of learning and growing in the industry."
         }
       ]
     };
