@@ -106,9 +106,9 @@ class Contact extends React.Component {
                         <p className="lead">
                           Whether you want to get in touch, talk about a project
                           collaboration, or just say hi, I'd love to hear from
-                          you.
+                          you also resume and other socials are below.
                           <br />
-                          Simply fill the from and send me an email.
+                          Simply fill the form and send me an email.
                         </p>
                         {/* <!-- <ul class="list-ico">
                                 <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
@@ -120,13 +120,13 @@ class Contact extends React.Component {
                         <ul>
                           <li>
                             <a
-                              href="link"
+                              href="https://docs.google.com/document/d/1UdSeoztkxVjAcLwfS-0iG4-qCnbif4RcV_03yjQYq-w/edit#heading=h.gjdgxs"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
-                              {/* <span className="ico-circle">
+                              <span className="ico-circle">
                                 <i className="ion-social-codepen"></i>
-                              </span> */}
+                              </span>
                             </a>
                           </li>
                           <li>
