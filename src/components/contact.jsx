@@ -108,13 +108,13 @@ class Contact extends React.Component {
                           collaboration, or just say hi, I'd love to hear from
                           you also resume and other socials are below.
                           <br />
-                          Simply fill the form and send me an email.
+                          Simply fill the form and send me an email. 
                         </p>
-                        {/* <!-- <ul class="list-ico">
-                                <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                                <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                                <li><span class="ion-email"></span> contact@example.com</li>
-                                </ul> --> */}
+                         <ul class="list-ico">
+                                <li><span class="ion-ios-location"></span>Renton, WA </li>
+                                <li><span class="ion-ios-telephone"></span> (775) 313-4404</li>
+                                <li><span class="ion-email"></span> stefanjohnson650@gmail.com</li>
+                                </ul>
                       </div>
                       <div className="socials">
                         <ul>
