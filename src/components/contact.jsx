@@ -18,7 +18,7 @@ class Contact extends React.Component {
                   <div className="row">
                     <div className="col-md-6">
                       <div className="title-box-2">
-                        <h5 className="title-left">Send A Message</h5>
+                        {/* <h5 className="title-left">Send A Message</h5> */}
                       </div>
                       <div>
                         <form
@@ -26,14 +26,14 @@ class Contact extends React.Component {
                           method="POST"
                           className="contactForm"
                         >
-                          <div id="sendmessage">
+                          {/* <div id="sendmessage">
                             Your message has been sent. Thank you!
-                          </div>
+                          </div> */}
                           <div id="errormessage"></div>
                           <div className="row">
                             <div className="col-md-12 mb-3">
                               <div className="form-group">
-                                <input
+                                {/* <input
                                   type="text"
                                   name="name"
                                   className="form-control"
@@ -41,13 +41,13 @@ class Contact extends React.Component {
                                   placeholder="Your Name"
                                   data-rule="minlen:4"
                                   data-msg="Please enter at least 4 chars"
-                                />
+                                /> */}
                                 <div className="validation"></div>
                               </div>
                             </div>
                             <div className="col-md-12 mb-3">
                               <div className="form-group">
-                                <input
+                                {/* <input
                                   type="email"
                                   className="form-control"
                                   name="email"
@@ -55,13 +55,13 @@ class Contact extends React.Component {
                                   placeholder="Your Email"
                                   data-rule="email"
                                   data-msg="Please enter a valid email"
-                                />
+                                /> */}
                                 <div className="validation"></div>
                               </div>
                             </div>
                             <div className="col-md-12 mb-3">
                               <div className="form-group">
-                                <input
+                                {/* <input
                                   type="text"
                                   className="form-control"
                                   name="subject"
@@ -69,30 +69,30 @@ class Contact extends React.Component {
                                   placeholder="Subject"
                                   data-rule="minlen:4"
                                   data-msg="Please enter at least 8 chars of subject"
-                                />
+                                /> */}
                                 <div className="validation"></div>
                               </div>
                             </div>
                             <div className="col-md-12 mb-3">
                               <div className="form-group">
-                                <textarea
+                                {/* <textarea
                                   className="form-control"
                                   name="message"
                                   rows="5"
                                   data-rule="required"
                                   data-msg="Please write something for us"
                                   placeholder="Message"
-                                ></textarea>
+                                ></textarea> */}
                                 <div className="validation"></div>
                               </div>
                             </div>
                             <div className="col-md-12">
-                              <button
+                              {/* <button
                                 type="submit"
                                 className="button button-a button-big button-rouded"
                               >
                                 Send Message
-                              </button>
+                              </button> */}
                             </div>
                           </div>
                         </form>
@@ -106,9 +106,9 @@ class Contact extends React.Component {
                         <p className="lead">
                           Whether you want to get in touch, talk about a project
                           collaboration, or just say hi, I'd love to hear from
-                          you also resume and other socials are below.
-                          <br />
-                          Simply fill the form and send me an email. 
+                          you also resume, email, and other socials are below.
+                          {/* <br />
+                          Simply fill the form and send me an email.  */}
                         </p>
                          <ul class="list-ico">
                                 <li><span class="ion-ios-location"></span>Renton, WA </li>
