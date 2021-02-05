@@ -34,9 +34,10 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Project 1</h2>
+                        <h2 className="w-title">Officals Dashboard Search</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
+                            This app lets you search for your officals and gather info about them on local, state, and federal level. Technologies used-
                             HTML5 CSS3 Bootstrap 
                           </span>
                         </div>
@@ -95,9 +96,10 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Project 2</h2>
+                        <h2 className="w-title">DND Game Manager</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
+                            This app helps calculate your rolls and more in the game of Dungeons and Dragons. Technologies used-
                           Express-Handlebars PaperCSS jQuery Dotenv Express Express-session Sequelize MySQL2 Nodemailer
                           </span>{" "}
                         </div>
@@ -156,12 +158,16 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Project 3</h2>
+                        <h2 className="w-title">Truck N' Tasty Food Truck App</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                             CSS3 ReactJS MongoDB GoogleAPI CORS
+                            This is a Food Truck app that lets you search your area for food trucks! Technologies used-
+                             CSS3, ReactJS, MongoDB, GoogleAPI, CORS
                           </span>
-                          {/*} / <span className="w-date">18 Sep. 2018</span>*/}
+                           
+                        </div>
+                        <div>
+                           {/* <span className="w-link"> https://truckntastyfood.herokuapp.com/</span> */}
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -221,6 +227,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Workout Tracker</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
+                            This app allows you to keep track of your fitness. Technologies used- 
                             Java jQuery CSS MySQL2 NodeJS
                           </span>
                         </div>
@@ -281,7 +288,9 @@ class Portfolio extends React.Component {
                       <div className="col-sm-8">
                         <h2 className="w-title">Employee Directory</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">MySQL2 NodeJS CSS JavaScript</span>
+                          <span className="w-ctegory">
+                            This app is for searching your local, state, and federal officals. Technologies used-
+                            MySQL2 NodeJS CSS JavaScript</span>
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -341,6 +350,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Burger App</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
+                            This app simply lets you devour burgers and keep track of that also allows you to take them away. Technologies used-
                             Express-Handlebars CSS3 NodeJS MySQL2
                           </span>
                         </div>

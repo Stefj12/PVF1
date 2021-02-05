@@ -112,7 +112,7 @@ class Contact extends React.Component {
                         </p>
                          <ul class="list-ico">
                                 <li><span class="ion-ios-location"></span>Renton, WA </li>
-                                <li><span class="ion-ios-telephone"></span> (775) 313-4404</li>
+                                {/* <li><span class="ion-ios-telephone"></span> (775) 313-4404</li> */}
                                 <li><span class="ion-email"></span> stefanjohnson650@gmail.com</li>
                                 </ul>
                       </div>
