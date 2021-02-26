@@ -24,8 +24,16 @@ class Portfolio extends React.Component {
               </div>
             </div>
           </div>
+          <div>
+            <source />
+          </div>
+
           <div className="row">
             <div className="col-md-4">
+            <div class="btn-links">
+                        <a id="demo" class="btn btn-success" href="https://elijah415hz.github.io/election-dashboard/" target="_blank" rel="noopener noreferrer">Demo</a>
+                        <a id="github" class="btn btn-info" href="https://github.com/elijah415hz/election-dashboard" target="_blank" rel="noopener noreferrer">GitHub</a>
+                      </div>
               <div className="work-box">
                 <a href={stock} data-lightbox="gallery-vmarine">
                   <div className="work-img">
@@ -38,10 +46,11 @@ class Portfolio extends React.Component {
                         <div className="w-more">
                           <span className="w-ctegory">
                             This app lets you search for your officals and gather info about them on local, state, and federal level. Technologies used-
-                            HTML5 CSS3 Bootstrap 
+                            HTML5 CSS3 Bootstrap
                           </span>
                         </div>
                       </div>
+                      
                       <div className="col-sm-4">
                         <div className="w-like">
                           <span className="ion-ios-plus-outline"></span>
@@ -49,6 +58,7 @@ class Portfolio extends React.Component {
                       </div>
                     </div>
                   </div>
+                  
                 </a>
                 <a
                   href={stock1}
@@ -88,6 +98,10 @@ class Portfolio extends React.Component {
               </div>
             </div>
             <div className="col-md-4">
+            <div class="btn-links">
+                        <a id="demo" class="btn btn-success" href="https://stark-island-65376.herokuapp.com/" target="_blank" rel="noopener noreferrer">Demo</a>
+                        <a id="github" class="btn btn-info" href="https://github.com/artuis/dnd-action-calculator" target="_blank" rel="noopener noreferrer">GitHub</a>
+                      </div>
               <div className="work-box">
                 <a href={stock1} data-lightbox="gallery-aguadeluz">
                   <div className="work-img">
@@ -100,10 +114,11 @@ class Portfolio extends React.Component {
                         <div className="w-more">
                           <span className="w-ctegory">
                             This app helps calculate your rolls and more in the game of Dungeons and Dragons. Technologies used-
-                          Express-Handlebars PaperCSS jQuery Dotenv Express Express-session Sequelize MySQL2 Nodemailer
+                            Express-Handlebars PaperCSS jQuery Dotenv Express Express-session Sequelize MySQL2 Nodemailer
                           </span>{" "}
                         </div>
                       </div>
+                      
                       <div className="col-sm-4">
                         <div className="w-like">
                           <span className="ion-ios-plus-outline"></span>
@@ -111,6 +126,7 @@ class Portfolio extends React.Component {
                       </div>
                     </div>
                   </div>
+                  
                 </a>
                 <a
                   href={stock1}
@@ -150,6 +166,10 @@ class Portfolio extends React.Component {
               </div>
             </div>
             <div className="col-md-4">
+            <div class="btn-links">
+                        <a id="demo" class="btn btn-success" href="https://truckntastyfood.herokuapp.com/" target="_blank" rel="noopener noreferrer">Demo</a>
+                        <a id="github" class="btn btn-info" href="https://github.com/PatCeriale/Truck-N-Tasty" target="_blank" rel="noopener noreferrer">GitHub</a>
+                      </div>
               <div className="work-box">
                 <a href={stock2} data-lightbox="gallery-todo">
                   <div className="work-img">
@@ -162,12 +182,12 @@ class Portfolio extends React.Component {
                         <div className="w-more">
                           <span className="w-ctegory">
                             This is a Food Truck app that lets you search your area for food trucks! Technologies used-
-                             CSS3, ReactJS, MongoDB, GoogleAPI, CORS
+                            CSS3, ReactJS, MongoDB, GoogleAPI, CORS
                           </span>
-                           
+                          
                         </div>
                         <div>
-                           {/* <span className="w-link"> https://truckntastyfood.herokuapp.com/</span> */}
+                          {/* <span className="w-link"> https://truckntastyfood.herokuapp.com/</span> */}
                         </div>
                       </div>
                       <div className="col-sm-4">
@@ -177,6 +197,7 @@ class Portfolio extends React.Component {
                       </div>
                     </div>
                   </div>
+                  
                 </a>
                 <a
                   href={stock1}
@@ -216,6 +237,10 @@ class Portfolio extends React.Component {
               </div>
             </div>
             <div className="col-md-4">
+            <div class="btn-links">
+                        <a id="demo" class="btn btn-success" href="https://thawing-waters-86555.herokuapp.com/?id=5ff00044f883a40017be077b" target="_blank" rel="noopener noreferrer">Demo</a>
+                        <a id="github" class="btn btn-info" href="https://github.com/Stefj12/Workout-Tracker" target="_blank" rel="noopener noreferrer">GitHub</a>
+                      </div>
               <div className="work-box">
                 <a href={stock3} data-lightbox="gallery-medlingos">
                   <div className="work-img">
@@ -227,11 +252,12 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Workout Tracker</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            This app allows you to keep track of your fitness. Technologies used- 
+                            This app allows you to keep track of your fitness. Technologies used-
                             Java jQuery CSS MySQL2 NodeJS
                           </span>
                         </div>
                       </div>
+                      
                       <div className="col-sm-4">
                         <div className="w-like">
                           <span className="ion-ios-plus-outline"></span>
@@ -239,6 +265,7 @@ class Portfolio extends React.Component {
                       </div>
                     </div>
                   </div>
+                  
                 </a>
                 <a
                   href={stock1}
@@ -278,6 +305,10 @@ class Portfolio extends React.Component {
               </div>
             </div>
             <div className="col-md-4">
+            <div class="btn-links">
+                        <a id="demo" class="btn btn-success" href="https://frozen-refuge-34138.herokuapp.com/" target="_blank" rel="noopener noreferrer">Demo</a>
+                        <a id="github" class="btn btn-info" href="https://github.com/Stefj12/employee-directory" target="_blank" rel="noopener noreferrer">GitHub</a>
+                      </div>
               <div className="work-box">
                 <a href={stock4} data-lightbox="gallery-smth">
                   <div className="work-img">
@@ -289,10 +320,11 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Employee Directory</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            This app is for searching your local, state, and federal officals. Technologies used-
+                            This app is for searching for employees. Technologies used-
                             MySQL2 NodeJS CSS JavaScript</span>
                         </div>
                       </div>
+                      
                       <div className="col-sm-4">
                         <div className="w-like">
                           <span className="ion-ios-plus-outline"></span>
@@ -300,6 +332,7 @@ class Portfolio extends React.Component {
                       </div>
                     </div>
                   </div>
+                  
                 </a>
                 <a
                   href={stock1}
@@ -339,6 +372,10 @@ class Portfolio extends React.Component {
               </div>
             </div>
             <div className="col-md-4">
+            <div class="btn-links">
+                        <a id="demo" class="btn btn-success" href="https://rocky-crag-93660.herokuapp.com/" target="_blank" rel="noopener noreferrer">Demo</a>
+                        <a id="github" class="btn btn-info" href="https://github.com/Stefj12/Budget-Tracker" target="_blank" rel="noopener noreferrer">GitHub</a>
+                      </div>
               <div className="work-box">
                 <a href={stock5} data-lightbox="gallery-mf">
                   <div className="work-img">
@@ -347,14 +384,15 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Burger App</h2>
+                        <h2 className="w-title">Budget Tracker-</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            This app simply lets you devour burgers and keep track of that also allows you to take them away. Technologies used-
-                            Express-Handlebars CSS3 NodeJS MySQL2
+                            This app simply lets you keep track of your budget. Technologies used-
+                            Express-Handlebars CSS3 NodeJS MySQL2.
                           </span>
                         </div>
                       </div>
+                    
                       <div className="col-sm-4">
                         <div className="w-like">
                           <span className="ion-ios-plus-outline"></span>
@@ -362,6 +400,7 @@ class Portfolio extends React.Component {
                       </div>
                     </div>
                   </div>
+                  
                 </a>
                 <a
                   href={stock1}
